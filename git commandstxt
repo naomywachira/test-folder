@@ -1,0 +1,15 @@
+to download the files from github
+    git clone (the repository link)
+
+to setup your details
+    git config --global user.name (your github username)
+    git config --global user.email (your github email)
+
+to update the repository to what you have in your project folder
+    git status
+    git add .
+
+    git commit -m (a short message on what changes have been made)
+
+to upload the changed files to github (you need to setup credentials first)
+    git push
