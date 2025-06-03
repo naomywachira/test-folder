@@ -1198,8 +1198,6 @@ nav.scrolled {
     font-size: 0.8rem;
 }
 
-}
-
 /* Responsive Design */
 @media (max-width: 992px) {
     .footer-content {
@@ -1210,7 +1208,7 @@ nav.scrolled {
         grid-column: span 2;
         flex-direction: row;
         flex-wrap: wrap;
-        gap: 20px;n
+        gap: 20px;
     }
     
     .back-to-top {
