@@ -1,0 +1,15 @@
+done
+	products
+		bath and skin care
+		feeding products
+		clothes
+
+undone
+	homepage structure
+		about us
+		products
+		portfolio
+		testimonials
+		contacts
+		footer
+	

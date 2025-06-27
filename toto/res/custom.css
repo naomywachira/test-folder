@@ -1,0 +1,25 @@
+/* for the products section */
+.product{
+    /* width: 100%; */
+}
+.product img{
+    max-width: 100%;
+    object-fit: cover;
+    aspect-ratio: 16/9;
+    height: 160px;
+    border-radius: 16px;
+}
+
+.info{
+    width: 100%;
+    padding: 16px 24px;
+}
+.info img{
+    max-width: 100%;
+    object-fit: cover;
+    aspect-ratio: 16/9;
+    border-radius: 16px;
+}
+.info .textpart{
+    padding:16px 24px;
+}

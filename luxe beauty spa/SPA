@@ -1,0 +1,185 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0"/>
+  <title>Glow Spa & Beauty</title>
+  <link rel="stylesheet" href="style.css" />
+</head>/* General Reset */
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+
+body {
+  font-family: 'Segoe UI', sans-serif;
+  line-height: 1.6;
+  background-color: #fff8f5;
+  color: #333;
+}
+
+.container {
+  width: 90%;
+  max-width: 1200px;
+  margin: auto;
+  padding: 20px 0;
+}
+
+/* Header */
+header {
+  background-color: #f3e5f5;
+  padding: 20px 0;
+  text-align: center;
+}
+
+header h1 {
+  color: #6a1b9a;
+  margin-bottom: 10px;
+}
+
+nav ul {
+  list-style: none;
+  display: flex;
+  justify-content: center;
+  gap: 20px;
+}
+
+nav a {
+  text-decoration: none;
+  color: #6a1b9a;
+  font-weight: bold;
+}
+
+/* Hero Section */
+.hero {
+  background: url('https://images.unsplash.com/photo-1588776814546-ea03c188bdd0') no-repeat center center/cover;
+  color: white;
+  padding: 100px 0;
+  text-align: center;
+}
+
+.hero h2 {
+  font-size: 3em;
+}
+
+.hero .btn {
+  background: #ba68c8;
+  color: white;
+  padding: 10px 20px;
+  margin-top: 20px;
+  display: inline-block;
+  text-decoration: none;
+  border-radius: 5px;
+}
+
+/* Services */
+.services {
+  background: #fff;
+  padding: 60px 0;
+  text-align: center;
+}
+
+.service-list {
+  display: flex;
+  flex-wrap: wrap;
+  justify-content: space-around;
+  gap: 30px;
+  margin-top: 30px;
+}
+
+.service {
+  flex: 1 1 250px;
+  background: #fce4ec;
+  padding: 20px;
+  border-radius: 10px;
+}
+
+/* About */
+.about {
+  background: #f3e5f5;
+  padding: 60px 0;
+  text-align: center;
+}
+
+/* Contact */
+.contact {
+  background: #fff;
+  padding: 60px 0;
+  text-align: center;
+}
+
+/* Footer */
+footer {
+  background: #6a1b9a;
+  color: white;
+  text-align: center;
+  padding: 20px 0;
+  font-size: 0.9em;
+}
+
+<body>
+  <header>
+    <div class="container">
+      <h1>Glow Spa & Beauty</h1>
+      <nav>
+        <ul>
+          <li><a href="#services">Services</a></li>
+          <li><a href="#about">About</a></li>
+          <li><a href="#contact">Contact</a></li>
+        </ul>
+      </nav>
+    </div>
+  </header>
+
+  <section class="hero">
+    <div class="container">
+      <h2>Relax. Refresh. Rejuvenate.</h2>
+      <p>Luxury beauty & spa treatments for your mind and body.</p>
+      <a href="#services" class="btn">Explore Services</a>
+    </div>
+  </section>
+
+  <section id="services" class="services">
+    <div class="container">
+      <h2>Our Services</h2>
+      <div class="service-list">
+        <div class="service">
+          <h3>Facials</h3>
+          <p>Deep cleansing, hydration, and anti-aging treatments.</p>
+        </div>
+        <div class="service">
+          <h3>Massage Therapy</h3>
+          <p>Swedish, deep tissue, and aromatherapy massage.</p>
+        </div>
+        <div class="service">
+          <h3>Manicure & Pedicure</h3>
+          <p>Luxurious nail treatments and polish.</p>
+        </div>
+      </div>
+    </div>
+  </section>
+
+  <section id="about" class="about">
+    <div class="container">
+      <h2>About Us</h2>
+      <p>Glow Spa is your sanctuary for self-care. Our certified professionals use only the finest organic products to ensure a rejuvenating experience in a serene atmosphere.</p>
+    </div>
+  </section>
+
+  <section id="contact" class="contact">
+    <div class="container">
+      <h2>Contact Us</h2>
+      <p>Email: contact@glowspa.com</p>
+      <p>Phone: +123-456-7890</p>
+      <p>Location: 123 Bliss Avenue, Wellness City</p>
+    </div>
+  </section>
+
+  <footer>
+    <div class="container">
+      <p>&copy; 2025 Glow Spa & Beauty. All rights reserved.</p>
+    </div>
+  </footer>
+</body>
+</html>
