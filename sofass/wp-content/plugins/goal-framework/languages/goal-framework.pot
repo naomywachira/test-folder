@@ -1,0 +1,995 @@
+#, fuzzy
+msgid ""
+msgstr ""
+"Project-Id-Version: Goal Framework\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2024-09-28 15:25+0000\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language-Team: \n"
+"Language: \n"
+"Plural-Forms: nplurals=INTEGER; plural=EXPRESSION;\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Loco https://localise.biz/\n"
+"X-Loco-Version: 2.6.11; wp-6.6.2\n"
+"X-Domain: goal-framework"
+
+#. URI of the plugin
+#. Author URI of the plugin
+msgid "#"
+msgstr ""
+
+#: importer/import.php:427
+#, php-format
+msgid ""
+"<strong>Important:</strong> The Importer requires memory limit of your "
+"system >= %1$sMB."
+msgstr ""
+
+#: importer/import.php:404
+msgid ""
+"<strong>Warning:</strong> If you have already used this feature before and "
+"you want to try it again, your content may be duplicated. Please consider "
+"resetting your database back to defaults with <a href=\"//wordpress."
+"org/plugins/wordpress-reset/\">this plugin</a>."
+msgstr ""
+
+#: classes/post-types/portfolio.php:200
+msgid "Add Another Member"
+msgstr ""
+
+#: functions-preset.php:103
+msgid "Add new"
+msgstr ""
+
+#: classes/post-types/brand.php:26 classes/post-types/brand.php:27
+msgid "Add New Brand"
+msgstr ""
+
+#: classes/post-types/footer.php:25 classes/post-types/footer.php:26
+msgid "Add New Footer"
+msgstr ""
+
+#: classes/post-types/header.php:25 classes/post-types/header.php:26
+msgid "Add New Header"
+msgstr ""
+
+#: classes/post-types/megamenu.php:34 classes/post-types/megamenu.php:35
+msgid "Add New Megamenu Profile"
+msgstr ""
+
+#: classes/post-types/portfolio.php:32 classes/post-types/portfolio.php:33
+msgid "Add New Portfolio"
+msgstr ""
+
+#: classes/post-types/portfolio.php:71
+msgid "Add New Portfolio Category"
+msgstr ""
+
+#: classes/post-types/team.php:32 classes/post-types/team.php:33
+msgid "Add New Team"
+msgstr ""
+
+#: classes/post-types/team.php:71
+msgid "Add New Team Category"
+msgstr ""
+
+#: classes/post-types/testimonial.php:26 classes/post-types/testimonial.php:27
+msgid "Add New Testimonial"
+msgstr ""
+
+#: classes/widgets/facebook_like.php:8
+msgid "Adds support for Facebook Like Box. "
+msgstr ""
+
+#: classes/post-types/megamenu.php:135
+msgid "Alignment:"
+msgstr ""
+
+#: classes/post-types/brand.php:30
+msgid "All Brands"
+msgstr ""
+
+#: classes/post-types/footer.php:29
+msgid "All Footers"
+msgstr ""
+
+#: classes/post-types/header.php:29
+msgid "All Headers"
+msgstr ""
+
+#: classes/post-types/megamenu.php:38
+msgid "All Megamenu Profiles"
+msgstr ""
+
+#: classes/post-types/portfolio.php:66
+msgid "All Portfolio Categories"
+msgstr ""
+
+#: classes/post-types/portfolio.php:36
+msgid "All Portfolios"
+msgstr ""
+
+#: classes/post-types/team.php:66
+msgid "All Team Categories"
+msgstr ""
+
+#: classes/post-types/team.php:36
+msgid "All Teams"
+msgstr ""
+
+#: classes/post-types/testimonial.php:30
+msgid "All Testimonials"
+msgstr ""
+
+#: classes/post-types/portfolio.php:163 classes/post-types/team.php:124
+msgid "Behance"
+msgstr ""
+
+#: classes/widgets/twitter.php:73
+msgid "Border Color:"
+msgstr ""
+
+#: classes/post-types/brand.php:25
+msgid "Brand"
+msgstr ""
+
+#: classes/post-types/brand.php:56
+msgid "Brand Information"
+msgstr ""
+
+#: classes/post-types/brand.php:72
+msgid "Brand Link"
+msgstr ""
+
+#: importer/import.php:444
+msgid "Choose a demo"
+msgstr ""
+
+#: importer/import.php:460
+msgid "Click Here To Import Demo Data"
+msgstr ""
+
+#: importer/import.php:466
+msgid ""
+"Click to the follow buttons to get sample demo from our live sites, the "
+"package will put into Theme-Folder/inc/samples folder. <br> Please make sure "
+"this folder has writeable permision"
+msgstr ""
+
+#: classes/post-types/portfolio.php:129
+msgid "Client"
+msgstr ""
+
+#: classes/widgets/instagram.php:69
+msgid "Columns:"
+msgstr ""
+
+#: functions-preset.php:102
+msgid "Create a new preset"
+msgstr ""
+
+#: functions-preset.php:100
+msgid "Current preset default: "
+msgstr ""
+
+#: classes/widgets/instagram.php:57
+msgid "Current window (_self)"
+msgstr ""
+
+#: importer/import.php:529
+msgid "Dashboard"
+msgstr ""
+
+#: importer/import.php:138 importer/import.php:287
+msgid "Data is error! file: "
+msgstr ""
+
+#: classes/post-types/portfolio.php:134
+msgid "Date"
+msgstr ""
+
+#: functions-preset.php:110
+msgid "Default"
+msgstr ""
+
+#: functions-preset.php:117
+msgid "Delete Preset"
+msgstr ""
+
+#: classes/post-types/megamenu.php:110
+msgid "Disable"
+msgstr ""
+
+#: importer/import.php:472
+msgid "Download Demos"
+msgstr ""
+
+#: functions-preset.php:116
+msgid "Duplicate"
+msgstr ""
+
+#: classes/post-types/brand.php:28
+msgid "Edit Brand"
+msgstr ""
+
+#: classes/post-types/footer.php:27
+msgid "Edit Footer"
+msgstr ""
+
+#: classes/post-types/header.php:27
+msgid "Edit Header"
+msgstr ""
+
+#: classes/post-types/megamenu.php:36
+msgid "Edit Megamenu Profile"
+msgstr ""
+
+#: classes/post-types/portfolio.php:34
+msgid "Edit Portfolio"
+msgstr ""
+
+#: classes/post-types/portfolio.php:69
+msgid "Edit Portfolio Category"
+msgstr ""
+
+#: classes/post-types/team.php:34
+msgid "Edit Team"
+msgstr ""
+
+#: classes/post-types/team.php:69
+msgid "Edit Team Category"
+msgstr ""
+
+#: classes/post-types/testimonial.php:28
+msgid "Edit Testimonial"
+msgstr ""
+
+#: classes/post-types/testimonial.php:75
+msgid "Enter Job example CEO, CTO"
+msgstr ""
+
+#: importer/import.php:203
+msgid "Error loading data.xml file"
+msgstr ""
+
+#: importer/import.php:222
+msgid "Error loading widgets.json file"
+msgstr ""
+
+#: classes/post-types/team.php:114
+msgid "Facebook"
+msgstr ""
+
+#: importer/import.php:521
+msgid "Failed to import!"
+msgstr ""
+
+#: classes/post-types/megamenu.php:157
+msgid "Featured"
+msgstr ""
+
+#: importer/import.php:300
+msgid "File is not exists! file:"
+msgstr ""
+
+#: functions.php:24
+msgid "Find"
+msgstr ""
+
+#: classes/post-types/footer.php:24
+msgid "Footer"
+msgstr ""
+
+#: classes/post-types/footer.php:23
+msgid "Footer Builder"
+msgstr ""
+
+#: classes/post-types/footer.php:35
+msgid "Footers Builder"
+msgstr ""
+
+#: classes/post-types/megamenu.php:131
+msgid "Fullwidth"
+msgstr ""
+
+#: classes/post-types/portfolio.php:144
+msgid "Gallery"
+msgstr ""
+
+#: importer/import.php:528
+msgid "Get support"
+msgstr ""
+
+#: classes/post-types/brand.php:24
+msgid "Goal Brand"
+msgstr ""
+
+#: classes/post-types/brand.php:36
+msgid "goal Brands"
+msgstr ""
+
+#: importer/import.php:58 importer/import.php:59
+msgid "Goal Demo Import"
+msgstr ""
+
+#: classes/widgets/facebook_like.php:7
+msgid "Goal Facebook Like Box"
+msgstr ""
+
+#. Name of the plugin
+msgid "Goal Framework"
+msgstr ""
+
+#. Description of the plugin
+msgid "Goal framework for wordpress theme"
+msgstr ""
+
+#: classes/widgets/instagram.php:7
+msgid "Goal Instagram Widget"
+msgstr ""
+
+#: classes/widgets/twitter.php:8
+msgid "Goal Latest Twitter"
+msgstr ""
+
+#: classes/post-types/portfolio.php:30 classes/post-types/portfolio.php:42
+msgid "Goal Portfolios"
+msgstr ""
+
+#: classes/post-types/team.php:30 classes/post-types/team.php:42
+msgid "Goal Teams"
+msgstr ""
+
+#: classes/post-types/testimonial.php:24
+msgid "Goal Testimonial"
+msgstr ""
+
+#: classes/post-types/testimonial.php:36
+msgid "Goal Testimonials"
+msgstr ""
+
+#: importer/import.php:401
+msgid "GoalTheme Demo Importer"
+msgstr ""
+
+#: classes/post-types/portfolio.php:178 classes/post-types/team.php:139
+msgid "Google Plus"
+msgstr ""
+
+#: classes/post-types/header.php:24
+msgid "Header"
+msgstr ""
+
+#: classes/post-types/header.php:23
+msgid "Header Builder"
+msgstr ""
+
+#: classes/post-types/header.php:35
+msgid "Headers Builder"
+msgstr ""
+
+#: classes/post-types/megamenu.php:156
+msgid "Hot"
+msgstr ""
+
+#: classes/post-types/megamenu.php:85
+msgid "Icon Font (Awesome):"
+msgstr ""
+
+#: classes/post-types/megamenu.php:92
+msgid "Icon Image:"
+msgstr ""
+
+#: classes/post-types/megamenu.php:118
+msgid "If enabled megamenu, its submenu will be disabled"
+msgstr ""
+
+#: importer/import.php:147
+msgid "Import First Settings Successful"
+msgstr ""
+
+#: importer/import.php:302
+msgid "Import Settings Successful"
+msgstr ""
+
+#: importer/import.php:244
+msgid "Import Sidebars Widgets Successful"
+msgstr ""
+
+#: importer/import.php:276
+msgid "Import Slider"
+msgstr ""
+
+#: importer/import.php:492
+msgid "Importing"
+msgstr ""
+
+#: importer/import.php:533
+msgid "Importing is successful!"
+msgstr ""
+
+#: classes/post-types/portfolio.php:173 classes/post-types/team.php:134
+msgid "Instagram"
+msgstr ""
+
+#: functions.php:156
+msgid "Instagram did not return a 200."
+msgstr ""
+
+#: functions.php:246
+msgid "Instagram did not return any images."
+msgstr ""
+
+#: functions.php:163 functions.php:168 functions.php:172
+msgid "Instagram has returned invalid data."
+msgstr ""
+
+#: functions.php:218
+msgid "Instagram Image"
+msgstr ""
+
+#: importer/import.php:501
+msgid "Install Demo Content"
+msgstr ""
+
+#: importer/import.php:500
+msgid "Install First Settings"
+msgstr ""
+
+#: importer/import.php:504
+msgid "Install Revolution Slider"
+msgstr ""
+
+#: importer/import.php:503
+msgid "Install Settings"
+msgstr ""
+
+#: importer/import.php:502
+msgid "Install Widgets"
+msgstr ""
+
+#: importer/import.php:501
+msgid "Installed Demo Content"
+msgstr ""
+
+#: importer/import.php:500
+msgid "Installed First Settings"
+msgstr ""
+
+#: importer/import.php:504
+msgid "Installed Revolution Slider"
+msgstr ""
+
+#: importer/import.php:503
+msgid "Installed Settings"
+msgstr ""
+
+#: importer/import.php:502
+msgid "Installed Widgets"
+msgstr ""
+
+#: importer/import.php:501
+msgid "Installing Demo Content ..."
+msgstr ""
+
+#: importer/import.php:500
+msgid "Installing First Settings ..."
+msgstr ""
+
+#: importer/import.php:504
+msgid "Installing Revolution Slider ..."
+msgstr ""
+
+#: importer/import.php:503
+msgid "Installing Settings ..."
+msgstr ""
+
+#: importer/import.php:502
+msgid "Installing Widgets ..."
+msgstr ""
+
+#: classes/post-types/portfolio.php:212 classes/post-types/team.php:109
+#: classes/post-types/testimonial.php:72
+msgid "Job"
+msgstr ""
+
+#: functions-preset.php:118
+msgid "Key:"
+msgstr ""
+
+#: classes/post-types/megamenu.php:152
+msgid "Label"
+msgstr ""
+
+#: classes/widgets/instagram.php:51
+msgid "Large"
+msgstr ""
+
+#: classes/widgets/twitter.php:34
+msgid "Latest tweets."
+msgstr ""
+
+#: classes/widgets/twitter.php:9
+msgid "Latest Twitter widget."
+msgstr ""
+
+#: functions.php:29
+msgid "Latitude"
+msgstr ""
+
+#: classes/post-types/megamenu.php:129
+msgid "Left"
+msgstr ""
+
+#: classes/widgets/twitter.php:65
+msgid "Limit:"
+msgstr ""
+
+#: classes/widgets/twitter.php:78
+msgid "Link Color:"
+msgstr ""
+
+#: classes/post-types/portfolio.php:168 classes/post-types/team.php:129
+msgid "Linkedin"
+msgstr ""
+
+#: importer/import.php:525
+msgid "Log"
+msgstr ""
+
+#: functions.php:34
+msgid "Longitude"
+msgstr ""
+
+#: classes/post-types/megamenu.php:33
+msgid "Megamenu Profile"
+msgstr ""
+
+#: classes/post-types/megamenu.php:32 classes/post-types/megamenu.php:44
+msgid "Megamenu Profiles"
+msgstr ""
+
+#: classes/post-types/portfolio.php:199
+msgid "Member {#}"
+msgstr ""
+
+#: classes/post-types/team.php:53
+msgid "mentor"
+msgstr ""
+
+#: importer/import.php:241
+msgid "Missing widgets data"
+msgstr ""
+
+#: classes/post-types/portfolio.php:94 classes/post-types/team.php:94
+msgid "More Informations"
+msgstr ""
+
+#: classes/post-types/portfolio.php:207
+msgid "Name"
+msgstr ""
+
+#: classes/widgets/twitter.php:88
+msgid "Name Color:"
+msgstr ""
+
+#: classes/post-types/megamenu.php:155
+msgid "New"
+msgstr ""
+
+#: classes/post-types/brand.php:29
+msgid "New Brand"
+msgstr ""
+
+#: classes/post-types/footer.php:28
+msgid "New Footer"
+msgstr ""
+
+#: classes/post-types/header.php:28
+msgid "New Header"
+msgstr ""
+
+#: classes/post-types/megamenu.php:37
+msgid "New Megamenu Profile"
+msgstr ""
+
+#: classes/post-types/portfolio.php:35
+msgid "New Portfolio"
+msgstr ""
+
+#: classes/post-types/portfolio.php:72
+msgid "New Portfolio Category"
+msgstr ""
+
+#: classes/post-types/team.php:35
+msgid "New Team"
+msgstr ""
+
+#: classes/post-types/team.php:72
+msgid "New Team Category"
+msgstr ""
+
+#: classes/post-types/testimonial.php:29
+msgid "New Testimonial"
+msgstr ""
+
+#: classes/widgets/instagram.php:58
+msgid "New window (_blank)"
+msgstr ""
+
+#: classes/widgets/twitter.php:53
+msgid "No"
+msgstr ""
+
+#: classes/post-types/brand.php:33
+msgid "No Brands found"
+msgstr ""
+
+#: classes/post-types/brand.php:34
+msgid "No Brands found in Trash"
+msgstr ""
+
+#: classes/post-types/footer.php:32
+msgid "No Footers found"
+msgstr ""
+
+#: classes/post-types/footer.php:33
+msgid "No Footers found in Trash"
+msgstr ""
+
+#: classes/post-types/header.php:32
+msgid "No Headers found"
+msgstr ""
+
+#: classes/post-types/header.php:33
+msgid "No Headers found in Trash"
+msgstr ""
+
+#: classes/post-types/megamenu.php:41
+msgid "No Megamenus found"
+msgstr ""
+
+#: classes/post-types/megamenu.php:42
+msgid "No Megamenus found in Trash"
+msgstr ""
+
+#: classes/post-types/portfolio.php:39
+msgid "No Portfolios found"
+msgstr ""
+
+#: classes/post-types/portfolio.php:40
+msgid "No Portfolios found in Trash"
+msgstr ""
+
+#: classes/post-types/team.php:39
+msgid "No Teams found"
+msgstr ""
+
+#: classes/post-types/team.php:40
+msgid "No Teams found in Trash"
+msgstr ""
+
+#: classes/post-types/testimonial.php:33
+msgid "No Testimonials found"
+msgstr ""
+
+#: classes/post-types/testimonial.php:34
+msgid "No Testimonials found in Trash"
+msgstr ""
+
+#: classes/post-types/megamenu.php:154
+msgid "None"
+msgstr ""
+
+#: classes/widgets/instagram.php:44
+msgid "Number:"
+msgstr ""
+
+#: classes/widgets/instagram.php:55
+msgid "Open links in"
+msgstr ""
+
+#: classes/widgets/instagram.php:52
+msgid "Original"
+msgstr ""
+
+#: classes/post-types/portfolio.php:67
+msgid "Parent Portfolio Category"
+msgstr ""
+
+#: classes/post-types/portfolio.php:68
+msgid "Parent Portfolio Category:"
+msgstr ""
+
+#: classes/post-types/team.php:67
+msgid "Parent Team Category"
+msgstr ""
+
+#: classes/post-types/team.php:68
+msgid "Parent Team Category:"
+msgstr ""
+
+#: classes/widgets/instagram.php:47
+msgid "Photo size"
+msgstr ""
+
+#: classes/post-types/portfolio.php:183 classes/post-types/team.php:144
+msgid "Pinterest"
+msgstr ""
+
+#: importer/import.php:414
+msgid ""
+"Please enable PHP's safe mode. Or contact to your server to increase "
+"\"max_execution_time\" to 600"
+msgstr ""
+
+#: classes/post-types/portfolio.php:31
+msgid "Portfolio"
+msgstr ""
+
+#: classes/post-types/portfolio.php:53
+msgid "portfolio"
+msgstr ""
+
+#: classes/post-types/portfolio.php:63 classes/post-types/portfolio.php:73
+msgid "Portfolio Categories"
+msgstr ""
+
+#: classes/post-types/portfolio.php:64
+msgid "Portfolio Category"
+msgstr ""
+
+#: classes/post-types/portfolio.php:80
+msgid "portfolio-category"
+msgstr ""
+
+#: functions-preset.php:97
+msgid "Preset Manager"
+msgstr ""
+
+#: classes/post-types/portfolio.php:201
+msgid "Remove Member"
+msgstr ""
+
+#: importer/import.php:274
+msgid "revslider folder is not exists! folder: "
+msgstr ""
+
+#: classes/post-types/megamenu.php:130
+msgid "Right"
+msgstr ""
+
+#: classes/post-types/brand.php:32
+msgid "Search Brand"
+msgstr ""
+
+#: classes/post-types/footer.php:31
+msgid "Search Footer"
+msgstr ""
+
+#: classes/post-types/header.php:31
+msgid "Search Header"
+msgstr ""
+
+#: classes/post-types/megamenu.php:40
+msgid "Search Megamenu Profile"
+msgstr ""
+
+#: classes/post-types/portfolio.php:38
+msgid "Search Portfolio"
+msgstr ""
+
+#: classes/post-types/portfolio.php:65
+msgid "Search Portfolio Categories"
+msgstr ""
+
+#: classes/post-types/team.php:38
+msgid "Search Team"
+msgstr ""
+
+#: classes/post-types/team.php:65
+msgid "Search Team Categories"
+msgstr ""
+
+#: classes/post-types/testimonial.php:32
+msgid "Search Testimonial"
+msgstr ""
+
+#: classes/post-types/portfolio.php:139
+msgid "Service"
+msgstr ""
+
+#: functions-preset.php:115
+msgid "Set Default"
+msgstr ""
+
+#: functions-preset.php:107
+msgid "Set default preset"
+msgstr ""
+
+#: classes/widgets/twitter.php:93
+msgid "Show background"
+msgstr ""
+
+#: classes/widgets/twitter.php:129
+msgid "Show Border"
+msgstr ""
+
+#: classes/widgets/twitter.php:120
+msgid "Show Footer"
+msgstr ""
+
+#: classes/widgets/twitter.php:111
+msgid "Show Header"
+msgstr ""
+
+#: classes/widgets/instagram.php:8
+msgid "Show instagram"
+msgstr ""
+
+#: classes/widgets/twitter.php:102
+msgid "Show Replies"
+msgstr ""
+
+#: classes/widgets/twitter.php:138
+msgid "Show Scrollbar"
+msgstr ""
+
+#: classes/widgets/instagram.php:50
+msgid "Small"
+msgstr ""
+
+#: classes/post-types/portfolio.php:104
+msgid "Social Informations"
+msgstr ""
+
+#: classes/widgets/instagram.php:61
+msgid "Style"
+msgstr ""
+
+#: classes/widgets/instagram.php:32
+msgid "Style 1"
+msgstr ""
+
+#: classes/post-types/megamenu.php:117
+msgid "Sub Megamenu Management"
+msgstr ""
+
+#: classes/post-types/team.php:31
+msgid "Team"
+msgstr ""
+
+#: classes/post-types/team.php:63 classes/post-types/team.php:73
+msgid "Team Categories"
+msgstr ""
+
+#: classes/post-types/team.php:64
+msgid "Team Category"
+msgstr ""
+
+#. Author of the plugin
+msgid "Team GoalTheme"
+msgstr ""
+
+#: classes/post-types/portfolio.php:114
+msgid "Team Informations"
+msgstr ""
+
+#: classes/post-types/team.php:80
+msgid "team-category"
+msgstr ""
+
+#: classes/post-types/testimonial.php:25
+msgid "Testimonial"
+msgstr ""
+
+#: classes/post-types/testimonial.php:56
+msgid "Testimonial Information"
+msgstr ""
+
+#: classes/post-types/testimonial.php:78
+msgid "Testimonial Link"
+msgstr ""
+
+#: classes/widgets/twitter.php:83
+msgid "Text Color:"
+msgstr ""
+
+#: importer/import.php:496
+msgid ""
+"The import process can take about 10 minutes. Please don't refresh the page."
+msgstr ""
+
+#: classes/post-types/megamenu.php:89
+msgid ""
+"This support display icon from FontAwsome, Please click <a "
+"href=\"//fontawesome.com/v4.7.0/icons\" target=\"_blank\"> <b>here</b></a> "
+"to see the list."
+msgstr ""
+
+#: classes/widgets/instagram.php:49
+msgid "Thumbnail"
+msgstr ""
+
+#: classes/widgets/instagram.php:36 classes/widgets/twitter.php:57
+msgid "Title:"
+msgstr ""
+
+#: classes/post-types/portfolio.php:158 classes/post-types/team.php:119
+msgid "Twitter"
+msgstr ""
+
+#: classes/widgets/twitter.php:69
+msgid "Twitter Id:"
+msgstr ""
+
+#: classes/widgets/twitter.php:61
+msgid "Twitter Username:"
+msgstr ""
+
+#: functions.php:153
+msgid "Unable to communicate with Instagram."
+msgstr ""
+
+#: classes/post-types/portfolio.php:70
+msgid "Update Portfolio Category"
+msgstr ""
+
+#: classes/post-types/team.php:70
+msgid "Update Team Category"
+msgstr ""
+
+#: classes/widgets/instagram.php:40
+msgid "Username:"
+msgstr ""
+
+#: classes/post-types/brand.php:31
+msgid "View Brand"
+msgstr ""
+
+#: classes/post-types/footer.php:30
+msgid "View Footer"
+msgstr ""
+
+#: classes/post-types/header.php:30
+msgid "View Header"
+msgstr ""
+
+#: classes/post-types/megamenu.php:39
+msgid "View Megamenu Profile"
+msgstr ""
+
+#: classes/post-types/portfolio.php:37
+msgid "View Portfolio"
+msgstr ""
+
+#: classes/post-types/team.php:37
+msgid "View Team"
+msgstr ""
+
+#: classes/post-types/testimonial.php:31
+msgid "View Testimonial"
+msgstr ""
+
+#: importer/import.php:224
+msgid "Widgets imported successfully"
+msgstr ""
+
+#: classes/post-types/megamenu.php:122
+msgid "Width:"
+msgstr ""
+
+#: classes/widgets/twitter.php:52
+msgid "Yes"
+msgstr ""
+
+#: importer/import.php:535
+msgid "You can go to Settings > Reading to change other Home page"
+msgstr ""
+
+#: classes/post-types/megamenu.php:103
+msgid "You can use Icon Font or Icon Image"
+msgstr ""

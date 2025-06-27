@@ -1,0 +1,93 @@
+
+---Downloaded files---
+The import files for: Home were successfully downloaded!
+Initial max execution time = 120
+Files info:
+Site URL = http://localhost/sofass
+Data file = C:\xampp2\htdocs\sofass/wp-content/themes/sofass/inc/vendors/one-click-demo-import/data/dummy-data.xml
+Widget file = C:\xampp2\htdocs\sofass/wp-content/themes/sofass/inc/vendors/one-click-demo-import/data/widgets.wie
+Customizer file = not defined!
+Redux files:
+sofass_theme_options -> C:\xampp2\htdocs\sofass/wp-content/themes/sofass/inc/vendors/one-click-demo-import/data/redux-options.json 
+
+
+------
+New AJAX call!
+[ERROR] Failed to import "woocommerce-placeholder" (Media)
+
+
+------
+New AJAX call!
+
+
+------
+New AJAX call!
+
+
+------
+New AJAX call!
+
+
+------
+New AJAX call!
+
+
+------
+New AJAX call!
+
+
+------
+New AJAX call!
+
+
+------
+New AJAX call!
+
+
+------
+New AJAX call!
+
+
+------
+New AJAX call!
+
+
+---ocdi/before_widgets_import---
+
+
+---Importing widgets---
+Blog sidebar : 
+
+Categories - Categories - Imported
+Archives - No Title - Imported
+Recent Comments - No Title - Imported
+Tag Cloud - Tags - Imported
+
+Shop Sidebar : 
+
+Block - No Title - Imported
+Filter Products by Price - Filter by price - Imported
+Filter Products by Attribute - Filter by - Imported
+Product Tag Cloud - Product tags - Imported
+Products list - Products - Imported
+
+Shop Filter Sidebar : 
+
+Block - No Title - Imported
+
+Shop Single Sidebar : 
+
+Goal Show Elementor Template Widget - No Title - Imported
+
+Header Mobile Bottom : 
+
+Block - No Title - Imported
+Block - No Title - Imported
+
+
+
+---Importing Redux settings---
+Redux settings import for: sofass_theme_options finished successfully!
+
+---ocdi/after_import---
+
