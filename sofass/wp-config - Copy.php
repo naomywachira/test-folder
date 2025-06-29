@@ -20,13 +20,13 @@
 
 // ** Database settings - You can get this info from your web host ** //
 /** The name of the database for WordPress */
-define( 'DB_NAME', 'haoselke_naomywp' );
+define( 'DB_NAME', 'sofass' );
 
 /** Database username */
-define( 'DB_USER', 'haoselke_wpuser' );
+define( 'DB_USER', 'root' );
 
 /** Database password */
-define( 'DB_PASSWORD', 'A5mbSQ,mV.%GbP&W' );
+define( 'DB_PASSWORD', '' );
 
 /** Database hostname */
 define( 'DB_HOST', 'localhost' );
